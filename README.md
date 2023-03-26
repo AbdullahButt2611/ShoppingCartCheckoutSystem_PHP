@@ -30,6 +30,7 @@ Overall, the ShoppingCartCheckoutSystem repository in PHP provides a framework f
 Following are some of the new features and learning encountered while creating this amazing project:
 
 - Navbar is made quite efficiently. a unique style has been added on the click event of the menu button.
+- Table has been responsive by horizontal scrolling feature.
 
 
 <br><br>
